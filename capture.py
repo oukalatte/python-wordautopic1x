@@ -28,13 +28,6 @@ for fn in image_file_name:
 #照時間排序一下
 image_file_path.sort()
 
-#讀取info.txt
-lines = []
-f_info = open('info.txt','r')
-for line in f_info:
-    lines.append(line)
-f_info.close
-
 
 document = docx.Document('template(dont-touch-it).docx')
 

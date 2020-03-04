@@ -1,4 +1,4 @@
-# python 自動插圖 2x
+# python 自動插圖 1x
 
 
 ## How to
